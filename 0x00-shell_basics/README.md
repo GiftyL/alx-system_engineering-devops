@@ -1,2 +1,2 @@
 #!/bin/bash
-command lines of Linux
+command lines of Linux /n
